@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vojti\\.nuget\\packages\\": {}
+    "C:\\Users\\matya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vojti\\source\\repos\\ConsoleApp10\\ConsoleApp10.csproj",
+      "projectUniqueName": "C:\\Users\\matya\\source\\repos\\milujunegry\\ConsoleApp10.csproj",
       "projectName": "ConsoleApp10",
-      "projectPath": "C:\\Users\\vojti\\source\\repos\\ConsoleApp10\\ConsoleApp10.csproj",
-      "packagesPath": "C:\\Users\\vojti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vojti\\source\\repos\\ConsoleApp10\\obj\\",
+      "projectPath": "C:\\Users\\matya\\source\\repos\\milujunegry\\ConsoleApp10.csproj",
+      "packagesPath": "C:\\Users\\matya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matya\\source\\repos\\milujunegry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vojti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
